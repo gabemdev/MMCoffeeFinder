@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82DE161F-E666-48C1-A91F-9FC347A036BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Practice6</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</key>
+		<string>github.com:gabemdev/MobileMakers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Practice6/Practice6.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:gabemdev/MobileMakers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MobileMakers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
